@@ -33,7 +33,6 @@ Começou de uma maneira simples, com o google planilhas e a implementação de a
 
 ## 📬 Contato
 
-Para dúvidas ou colaborações, sinta-se à vontade para entrar em contato pelo meu Linkedin (https://wwww.linkedin.com/in/jhennife)
+🔗 [Linkedin](https://wwww.linkedin.com/in/jhennife)
 
-🏷️ Tags sugeridas
-#finance #data-analysis #powerbi #python #orlario #data-visualization #business-intelligence
+🏷️ #finance #data-analysis #powerbi #python #orlario #data-visualization #business-intelligence
