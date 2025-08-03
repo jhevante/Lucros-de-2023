@@ -2,7 +2,7 @@
 
 Este projeto apresenta uma análise financeira desenvolvida para a Orla Rio, com foco na mensuração dos lucros gerados por uma marca parceira atuante nos quiosques da orla carioca. A iniciativa apoiou decisões estratégicas da empresa, destacando o impacto financeiro de parcerias comerciais.
 
-Começou de uma maneira simples, com o google planilhas e a implementação de algumas fórmulas básicas. Conforme fui adiquirindo conhecimento, consegui aprimorar o resultado usando power bi e fazer códigos em pyhton para adiquirir mais conhecimento. 
+Começou de uma maneira simples, com o google planilhas e a implementação de algumas fórmulas básicas. Conforme fui adiquirindo conhecimento, consegui aprimorar a entrega usando Power BI e fazer códigos em Pyhton para adiquirir mais conhecimento. 
 
 *Os números, informações e dados são fictícios.
 
