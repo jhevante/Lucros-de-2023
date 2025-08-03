@@ -15,7 +15,7 @@ Começou de uma maneira simples, com o google planilhas e a implementação de a
   👉 [Ver dashboard](LINK_AQUI)
 
 - 🐍 **Python**: automação de processos, limpeza de dados e análises aprofundadas.  
-  👉 [Ver notebook/script](LINK_AQUI)
+  👉 [Ver notebook/script](https://github.com/jhevante/Lucros-de-2023/commit/3d0d98acf4f75d0084a38ca2233070bee8b33cf7)
 
 
 ## 🛠️ Tecnologias Utilizadas
