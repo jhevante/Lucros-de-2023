@@ -8,7 +8,7 @@ Começou de uma maneira simples, com o google planilhas e a implementação de a
 
 ## 🔄 Evolução do Projeto
 
-- 📄 **Google Planilhas**: estruturação inicial dos dados e cálculos básicos.  
+- 📄 **Google Planilhas**: estruturação inicial dos dados e cálculos básicos. Nesse etapa, há implementação de fórmulas básicas no excel/google sheets e códigos simples em javascript para criar botões, permitindo a navegação entre as planilhas na área de trabalho. 
   👉 [Ver planilha](https://docs.google.com/spreadsheets/d/1EowafF_jBbzyYgcIYKX4A-TA6_fxcqvkBLvBEjxhso4/edit?usp=sharing)
   
 - 📊 **Power BI**: criação de dashboards interativos para visualização de KPIs.  
