@@ -8,11 +8,11 @@ Começou de uma maneira simples, com o google planilhas e a implementação de a
 
 ## 🔄 Evolução do Projeto
 
-- 📄 **Google Planilhas**: estruturação inicial dos dados e cálculos básicos. Nesse etapa, há implementação de fórmulas básicas no excel/google sheets e códigos simples em javascript para criar botões, permitindo a navegação entre as planilhas na área de trabalho. 
+- 📄 **Google Planilhas**: O começo do projeto. Estruturação inicial dos dados e cálculos básicos. Nesse etapa, há implementação de fórmulas básicas no excel/google sheets e códigos simples em javascript para criar botões, permitindo a navegação entre as planilhas na área de trabalho. 
   👉 [Ver planilha](https://docs.google.com/spreadsheets/d/1EowafF_jBbzyYgcIYKX4A-TA6_fxcqvkBLvBEjxhso4/edit?usp=sharing)
   
 - 📊 **Power BI**: criação de dashboards interativos para visualização de KPIs.  
-  👉 [Ver dashboard](LINK_AQUI)
+  👉 [Ver dashboard](LINK_AQUI) (em andamento)
 
 - 🐍 **Python**: automação de processos, limpeza de dados e análises aprofundadas.  
   👉 [Ver notebook/script](https://github.com/jhevante/Lucros-de-2023/commit/3d0d98acf4f75d0084a38ca2233070bee8b33cf7)
